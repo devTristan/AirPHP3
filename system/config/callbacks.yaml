@@ -1,0 +1,6 @@
+#Example:
+#start:
+# - [class, method]
+# - [class, othermethod]
+#end:
+# - [class, method]

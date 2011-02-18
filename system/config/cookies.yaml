@@ -1,0 +1,6 @@
+prefix: airphp_
+domain: ''
+path: /
+default_timeout: 604800
+secure: false
+httponly: true

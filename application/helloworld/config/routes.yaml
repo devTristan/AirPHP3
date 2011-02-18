@@ -1,0 +1,3 @@
+index: controllers/index.php
+routes:
+  style.css: views/stylesheets/main.css

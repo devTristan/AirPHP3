@@ -1,0 +1,11 @@
+{% extends "views/base.html" %}
+
+{% block title %}Index{% endblock %}
+
+{% block body %}
+<ol>
+	{% for item in list %}
+		<li>{{ item }}</li>
+	{% endfor %}
+</ol>
+{% endblock %}
